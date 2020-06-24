@@ -1,0 +1,12 @@
+{
+  "cadastro": [
+    {
+      "nome": "Renato",
+      "email": "renatoam@ymail.com",
+      "endereco": {
+        "rua": "Rua de Teste",
+        "numero": 10
+      }
+    }
+  ]
+}
